@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  🔭 I’m currently working on [Portfolio](https://github.com/Mori-Takahashi/Portfolio)
+  🔭 I’m currently working on [El pollo loco](https://github.com/Mori-Takahashi/el-pollo-loco)
   
   👨‍💻 All of my projects are available at [https://lyonelberzen.dev](https://lyonelberzen.dev)
   
