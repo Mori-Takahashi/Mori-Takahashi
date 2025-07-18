@@ -10,8 +10,6 @@
   
   👨‍💻 All of my projects are available at [https://lyonelberzen.dev](https://lyonelberzen.dev)
   
-  📫 How to reach me **info@lyonelberzen.dev**
-  
 </div>
 
 ###
