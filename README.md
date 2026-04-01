@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  🔭 I’m currently working on NOTHING
+  🔭 I’m currently working on Partfolio v2
   
   👨‍💻 All of my projects are available at [https://lyonelberzen.dev](https://lyonelberzen.dev)
   
