@@ -8,7 +8,7 @@
   
   🔭 I’m currently working on Partfolio v2
   
-  👨‍💻 All of my projects are available at [https://lyonelberzen.dev](https://lyonelberzen.dev)
+  👨‍💻 All of my projects are available at [mori-takahashi.de](https://mori-takahashi.de/)
   
 </div>
 
