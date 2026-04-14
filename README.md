@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A developer from Germany</h3>
 
 <div align="center">
   
